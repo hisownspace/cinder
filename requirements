@@ -1,0 +1,35 @@
+Statement of Work
+
+Audience:
+
+App Academy students learning a flask backend with wtforms for request
+validations and a SQLAlchemy ORM, having previously learned react/redux
+and express/sequelize backend.
+
+Goals & Objectives:
+
+Help students conceptualize and practice creating the connection between
+flask and react by providing a familiar template in express/sequelize
+and asking them to recreate it using the knowledge that they have of the
+technologies involved. The application should also provide students with
+the option to extend their application using cloud storage and websocket
+technology, with guidance on how to use AWS S3 and socket.io to achieve
+this.
+
+Budget:
+
+I have $0. That is the budget.
+
+Deadline:
+
+Project should be finished by January 10th, 2024.
+
+Constraints:
+
+ - Must use React/redux and express/sequelize
+ - A hidden flask backend should be created as a "solution" file as well 
+ - Backend API should be simple enough for a group of four beginner
+    flask programmers to replace with a flask backend in about 6 hours
+ - Backend should provide examples of many different database datatypes
+ - Restful API should be utilized
+ - 

@@ -22,7 +22,7 @@ I have $0. That is the budget.
 
 Deadline:
 
-Project should be finished by January 10th, 2024.
+Project should be finished by January 31st, 2024.
 
 Constraints:
 
@@ -32,4 +32,5 @@ Constraints:
     flask programmers to replace with a flask backend in about 6 hours
  - Backend should provide examples of many different database datatypes
  - Restful API should be utilized
- - 
+ - The entire process should be well-documented from start to finish
+ - The process should be used to explore git workflow
